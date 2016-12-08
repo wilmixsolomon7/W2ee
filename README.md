@@ -2,6 +2,13 @@
 W2EE is about WEBC part2 of WEBC Programming Language invented by wilmix jemin j at year 2016.
 
 
+WEBC part2  consists  of  two  modules
+
+a) WEBC Part2  -module 1 for java
+
+b) WEBC Part2  -module 1 for C/C++.
+
+
 W2ee has userfriendly framework called as
 
 JAUF.
