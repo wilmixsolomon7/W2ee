@@ -6,7 +6,7 @@ WEBC part2  consists  of  two  modules
 
 a) WEBC Part2  -module 1 for java
 
-b) WEBC Part2  -module 1 for C/C++.
+b) WEBC Part2  -module 2 for C/C++.
 
 
 W2ee has userfriendly framework called as
